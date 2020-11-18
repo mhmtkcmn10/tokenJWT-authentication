@@ -7,6 +7,6 @@
 
 > Üretilen token ile authentication işlemleri gerçekleştirilmektedir.
 
-
+> Oturum süresi bittiğinde refresh token üretilerek kullanıcıya seçenekler sunularak işlemler gerçekleştirilebilir.
 
 
